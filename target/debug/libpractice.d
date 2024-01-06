@@ -1,0 +1,1 @@
+/Users/nseguias/dev/practice/target/debug/libpractice.rlib: /Users/nseguias/dev/practice/src/contract.rs /Users/nseguias/dev/practice/src/error.rs /Users/nseguias/dev/practice/src/lib.rs /Users/nseguias/dev/practice/src/state.rs
